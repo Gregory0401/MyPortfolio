@@ -53,6 +53,8 @@
 
     .developer__pic{
         z-index: -1;
+        position:absolute;
+        top: 10vh;
     }
 
     .heading_container{
