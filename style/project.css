@@ -22,6 +22,7 @@
 
 .project_items{
     width: 300px;
+    /* height: 550px; */
     background: var(--secondary-color);
     border-radius: 10px;
     text-align: center;
@@ -72,6 +73,7 @@
 
 .project_title{
     font-size: 1.2rem;
+    text-shadow: 4px 4px 4px rgb(70, 68, 68);
 }
 
 .project_discription{
