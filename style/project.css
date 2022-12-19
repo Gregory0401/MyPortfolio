@@ -21,6 +21,7 @@
 }
 
 .project_items{
+    position: relative;
     width: 300px;
     height: 560px;
     background: var(--secondary-color);
@@ -34,6 +35,14 @@
     box-shadow: 0  0px 10px rgba(0, 0, 0,.6);
 }
 
+.position{
+    bottom: 83px;
+    right: 25%;
+}
+.position_2{
+    bottom: 25px;
+    right: 30%;
+}
 
 .project_items:hover{
     transform:translateY(-10px);
@@ -56,6 +65,7 @@
 }
 
 .source_code_btn{
+    position: absolute;
     padding: .6rem;
     background: var(--highlight-color);
     display: inline-block;
