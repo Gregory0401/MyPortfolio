@@ -37,11 +37,11 @@
 
 .position{
     bottom: 83px;
-    right: 25%;
+    left: 25%;
 }
 .position_2{
     bottom: 25px;
-    right: 30%;
+    left: 25%;
 }
 
 .project_items:hover{
